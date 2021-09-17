@@ -1,8 +1,8 @@
-# {++title++}
+# Some Good Ol Shapes in OpenGL
 
-<!-- summary -->
+![demo](imgs/demo.gif)
 
-## Anout
+## About
 
 <!-- more detail -->
 
